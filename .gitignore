@@ -39,6 +39,9 @@ Carthage/Build
 # AppCode 
 review_board_plugin*.*
 
+# Visual Studio
+.vs/
+
 
 # GitHub Pages
 _site
