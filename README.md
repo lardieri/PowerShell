@@ -4,6 +4,10 @@ Some PowerShell scripts I've written.
 
 Because when I'm off duty, I'm a recreational Windows user.
 
+## Remove-TargetStrings
+
+Empty out the contents of `<target>` nodes in an XLIFF localization file. This is needed by certain translation tools to repopulate the translations.
+
 ## Combine-Playlists
 
 Combine multiple Windows Media Player `.asx` playlist files into a single `.asx` playlist file.
